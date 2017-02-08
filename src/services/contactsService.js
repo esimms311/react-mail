@@ -79,5 +79,12 @@ const contacts = [
 		"company": "Speedbolt",
 		"email": "rojasburns@speedbolt.com",
 		"phone": "+1 (835) 476-2595"
+	},
+	{
+		"_id": "57890ab41fc8faae1bb39b75",
+		"name": "Burns Avery",
+		"company": "AveryInc",
+		"email": "Avery@AveryInc.com",
+		"phone": "+1 (835) 476-1234"
 	}
 ];
